@@ -1,6 +1,6 @@
 # 🇸🇬 SG Internet Directory
 
-## Table of Contents
+## Contents
 
 - [COVID-19](https://github.com/hueyy/sg-web/blob/master/covid.md)
 - [Media](https://github.com/hueyy/sg-web/blob/master/media.md)

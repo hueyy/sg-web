@@ -3,8 +3,13 @@
 <!-- omit in toc -->
 ## Table of Contents
 
+- [Books / Literature](#books--literature)
 - [Humour / Satire](#humour--satire)
 - [Nature / Wildlife](#nature--wildlife)
+
+## Books / Literature
+
+- [Epigram Bookshop](https://epigrambookshop.sg)
 
 ## Humour / Satire
 

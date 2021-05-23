@@ -15,8 +15,9 @@
 - [Government](#government)
 - [Art / Culture / Fashion](#art--culture--fashion)
   - [Non-English](#non-english-2)
-- [Financial/ Investment News](#financial-investment-news)
+- [Financial / Investment News](#financial--investment-news)
 - [Personal Finance](#personal-finance)
+- [Technology](#technology)
 - [Satire](#satire)
 - [Social Media / Forums](#social-media--forums)
 
@@ -72,6 +73,7 @@
 - [Askmelah.com](http://www.askmelah.com)
 - [fathership](https://fathership.co)
 - [Five Stars And a Moon](http://www.fivestarsandamoon.com)
+- [Regardless](https://regardless.sg)
 - [The Independent](https://theindependent.sg)
 - [The Online Citizen](https://www.theonlinecitizen.com)
 - [The Middle Ground](https://themiddleground.sg) ☠ - balanced coverage of political issues
@@ -91,15 +93,23 @@
 
 - [优周 U Weekly](https://www.uweekly.sg)
 
-## Financial/ Investment News
+## Financial / Investment News
 
 - [Business Times](https://www.businesstimes.com.sg)
 - [The Edge](https://www.theedgesingapore.com)
+- [The Good Investors](https://www.thegoodinvestors.sg)
 
 ## Personal Finance
 
+- [Dollars & Sense](https://dollarsandsense.sg)
+- [Dr Wealth](https://www.drwealth.com)
+- [Financial Horse](https://financialhorse.com)
 - [Salary.sg](https://salary.sg)
 - [Seedly Reads](https://blog.seedly.sg)
+
+## Technology
+
+- [Hardware Zone](https://www.hardwarezone.com.sg)
 
 ## Satire
 

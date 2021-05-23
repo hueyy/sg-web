@@ -15,6 +15,7 @@
   - [Artificial Intelligence](#artificial-intelligence)
   - [Data Analytics / Data Science / Statistics](#data-analytics--data-science--statistics)
   - [Software Development](#software-development)
+- [Medicine](#medicine)
 - [General](#general)
 - [Uncategorised](#uncategorised)
 
@@ -83,6 +84,10 @@
 ### Software Development
 
 - ["Frank" Junchao Gu](https://franklingu.github.io)
+
+## Medicine
+
+- [Anthony Li](https://llja0112.github.io)
 
 ## General
 
