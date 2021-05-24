@@ -84,6 +84,10 @@
 ### Software Development
 
 - ["Frank" Junchao Gu](https://franklingu.github.io)
+- [Ho Jia Ling](https://jialiang.github.io)
+- [Justin Ng](https://www.justinng.net)
+- [Lim Chee Aun](https://cheeaun.com)
+- [Sriram Sami](https://sriramsami.com)
 
 ## Medicine
 

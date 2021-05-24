@@ -11,6 +11,7 @@
   - [Members of Parliament (present and former)](#members-of-parliament-present-and-former)
   - [Candidates for Parliament](#candidates-for-parliament)
 - [Resources](#resources)
+- [Platforms](#platforms)
 
 ## Social Commentary / Political Analysis
 
@@ -24,6 +25,7 @@
 
 - [Andrew Loh](https://andrewlohhp.wordpress.com) - founder of The Online Citizen
 - [Function 8](https://fn8org.wordpress.com)
+- [Han Hui Hui 韩慧慧](https://huihui247.blogspot.com)
 - [likedatosocanmeh](https://likedatosocanmeh.wordpress.com)
 - [Singapore Politics: Blog](https://jesscscott.wordpress.com)
   - [PAP: Family Tree](https://jesscscott.wordpress.com/sg-history/#family)
@@ -56,4 +58,9 @@
 - [GE 2020 Voted Education One-Stop Portal by CAPE (Yale-NUS)](https://cape.commons.yale-nus.edu.sg/2020/06/23/ge2020portal/)
 - [Singapore Votes](https://singaporevotes.com)
   - [List of Voter Education Resources](https://singaporevotes.com/main-resources)
+- [Singapore Parliament Hansard NLP Demo](https://github.com/nus-cs3244-ml-singapore-7/sg-parliament-hansard-nlp-demo)
 - [Nanyang Apolitical Society](https://napssg.wordpress.com) ☠ (probably)
+
+## Platforms
+
+- [Dialectic.sg](http://dialectic.sg) ☠ - discussion platform

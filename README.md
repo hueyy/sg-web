@@ -6,6 +6,7 @@
 - [Media](https://github.com/hueyy/sg-web/blob/master/media.md)
 - [Personal Sites / Blogs](https://github.com/hueyy/sg-web/blob/master/blogs.md)
 - [Politics](https://github.com/hueyy/sg-web/blob/master/civil-socety-politics.md)
+- [Universities](https://github.com/hueyy/sg-web/blob/master/universities.md)
 - [Misc](https://github.com/hueyy/sg-web/blob/master/misc.md)
 
 ## About
