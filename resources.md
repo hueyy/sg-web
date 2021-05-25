@@ -45,7 +45,6 @@
 ## Food
 
 - [Amazing Food Race (Singapore Edition)](https://app.gametize.com/project/33)
-- [Help Our Hawkers](https://www.google.com/maps/d/viewer?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&ll=1.3174863749308747%2C103.87869089999995&z=14) - map of hawkers who are not digitally literate enough to take advantage of delivery
 - [HungryGoWhere](https://www.hungrygowhere.com)
 - [Order Kopi Guide](https://kopi.guide)
 
