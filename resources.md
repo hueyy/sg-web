@@ -6,6 +6,9 @@
 - [Datasets / APIs](#datasets--apis)
   - [Banking / Finance](#banking--finance)
   - [Visualisations](#visualisations)
+- [Finance / Investing](#finance--investing)
+  - [Brokers](#brokers)
+  - [Roboinvestors](#roboinvestors)
 - [Food](#food)
 - [Government](#government)
 - [Housing](#housing)
@@ -41,6 +44,34 @@
 ### Visualisations
 
 - [viz.sg](https://viz.sg)
+
+## Finance / Investing
+
+- [SGX Investors Portal / CDP Securities](https://investors.sgx.com)
+- [SGX Securities Prices / Stock Screener](https://www.sgx.com/securities/securities-prices)
+- [StocksCafe](https://stocks.cafe) - track your stocks portfolio, including dividends
+
+### Brokers
+
+- [DBS Vickers](https://www.dbsvonline.com)
+- [FSMOne](https://secure.fundsupermart.com)
+- [Interactive Brokers](https://www.interactivebrokers.com.sg)
+- [POEMS by PhillipCapital](https://www.poems.com.sg)
+- [Saxo Markets](https://www.home.saxo/en-sg)
+- [StanChart Online Trading](https://www.sc.com/sg/wealth/investment/online-trading/)
+- [TD Ameritrade](https://www.tdameritrade.com.sg)
+- [Tiger Brokers](https://www.tigerbrokers.com.sg)
+- [UTrade by UOB Kay Hian](https://www.utrade.com.sg)
+
+### Roboinvestors
+
+- [AutoWealth](https://www.autowealth.sg)
+- [Endowus](https://endowus.com)
+- [Kristal.AI](https://kristal.ai)
+- [MoneyOwl](https://www.moneyowl.com.sg) - an NTUC social enterprise
+- [SquirrelSave](https://squirrelsave.com.sg)
+- [StashAway](https://www.stashaway.sg)
+- [Syfe](https://www.syfe.com)
 
 ## Food
 
