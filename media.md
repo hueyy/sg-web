@@ -99,6 +99,8 @@
 - [Business Times](https://www.businesstimes.com.sg)
 - [The Edge](https://www.theedgesingapore.com)
 - [The Good Investors](https://www.thegoodinvestors.sg)
+- [TheFinance.sg](https://thefinance.sg)
+- [Value Invest Asia](https://valueinvestasia.com)
 
 ## Personal Finance
 

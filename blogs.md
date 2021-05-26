@@ -55,10 +55,17 @@
 
 ## Finance / Investment
 
+- [ccloh Strategic Investor Zone](https://patiencemarketzone.blogspot.com)
+- [Finance Smiths](https://financesmiths.com)
+- [New Academy of Finance](https://newacademyoffinance.com)
+- [REIT-TIREMENT](https://www.reit-tirement.com)
 - [Thoughts of a Cynical Investor](https://atans1.wordpress.com)
+- [Turtle Investor](https://www.turtleinvestor.net)
 
 ## Personal Finance
 
+- [$$$ KPO and CZM $$$](https://kpo-and-czm.blogspot.com)
+- [SG Budget Babe](https://www.sgbudgetbabe.com)
 - [The Milelion](https://milelion.com)
 
 ## Whistleblower / Investigative Sites
