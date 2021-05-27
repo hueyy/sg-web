@@ -26,6 +26,7 @@
 - [Daniel Food Diary](https://danielfooddiary.com)
 - [FoodGem](https://www.foodgem.sg)
 - [Lady Iron Chef](https://www.ladyironchef.com)
+- [Eatbook](https://eatbook.sg)
 - [ieatishootipost by Dr Leslie Tay](http://ieatishootipost.sg)
 - [Miss Tam Chiak](https://www.misstamchiak.com)
 - [PinkyPiggu](http://www.pinkypiggu.com)

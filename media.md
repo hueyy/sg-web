@@ -74,6 +74,7 @@
 
 ## Alternative News
 
+- [AsiaOne](https://www.asiaone.com)
 - [Askmelah.com](http://www.askmelah.com)
 - [fathership](https://fathership.co)
 - [Five Stars And a Moon](http://www.fivestarsandamoon.com)
@@ -81,7 +82,7 @@
 - [The Independent](https://theindependent.sg)
 - [The Online Citizen](https://www.theonlinecitizen.com)
 - [The Middle Ground](https://themiddleground.sg) ☠ - balanced coverage of political issues
-- [The Real Singapore (TRS)](https://therealsingapore.com) ☠ - socio-political site run by Ai Takagi and Yang Kaiheng. The pair now operate [Takagi Ramen Singapore (TRS)](https://takagiramen.com/)
+- [The Real Singapore (TRS)](https://therealsingapore.com) ☠ - socio-political site run by Ai Takagi and Yang Kaiheng. The pair now operate [Takagi Ramen Singapore (TRS)](https://takagiramen.com/) and [The Royal Singapore](https://theroyalsingapore.com/)
 
 ## Government
 
@@ -112,6 +113,7 @@
 - [Financial Horse](https://financialhorse.com)
 - [Salary.sg](https://salary.sg)
 - [Seedly Reads](https://blog.seedly.sg)
+- [The Woke Salaryman](https://thewokesalaryman.com)
 
 ## Technology
 
@@ -132,3 +134,4 @@
 - [Naomi Neo](https://www.youtube.com/channel/UCPg43ka6hrodDjMtySF3FnQ)
 - [Ryan Sylvia/NOC](https://www.youtube.com/channel/UC8az0OO4wXXu2k0ifJjxxBg)
 - [Sneaky Sushii](https://www.youtube.com/channel/UCbWZP5Fuvq1WzD1u-yTwyIw)
+- [Ghib Ojisan](https://www.youtube.com/channel/UCJfm-feI6sSoaDwFx_viN1g)

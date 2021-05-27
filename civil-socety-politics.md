@@ -37,6 +37,7 @@
 - [People's Action Party (PAP)](https://www.pap.org.sg)
 - [People's Progress Party (PSP)](https://psp.org.sg)
 - [People's Voice (PV)](https://peoplesvoicesg.com)
+- [Red Dot United (RDU)](https://reddotunited.sg)
 - [Reform Party (RP)](https://reform.sg)
 - [Singapore Democratic Party (SDP)](https://yoursdp.org)
 - [Singapore Democratic Alliance (SDA)](http://mysda.news)

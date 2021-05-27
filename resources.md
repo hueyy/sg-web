@@ -46,6 +46,11 @@
 
 - [viz.sg](https://viz.sg)
 
+## Education
+
+- [Kiasu Parents](https://www.kiasuparents.com/kiasu)
+- [SGExams](https://exams.sg)
+
 ## Finance / Investing
 
 - [SGX Investors Portal / CDP Securities](https://investors.sgx.com)
@@ -111,6 +116,8 @@
 
 - [CityMapper](https://citymapper.com/singapore/apps)
 - [gothere.sg](https://gothere.sg/maps)
+- [One Map](https://www.onemap.gov.sg)
+- [One Map 3D](https://www.onemap3d.gov.sg)
 
 ### Bus
 
