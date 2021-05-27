@@ -6,7 +6,8 @@
 - [Civil Society / Politics](civil-socety-politics.md)
 - [Media](media.md)
 - [Personal Sites / Blogs](blogs.md)
-- [Resources](resources.md)
+- [Resources](resources.md) - apps, lists, guides, etc.
+- [Social](social.md) - forums, groups, online communities, etc.
 - [Universities](universities.md)
 - [Misc](misc.md)
 

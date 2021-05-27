@@ -1,5 +1,14 @@
 # Social
 
+<!-- omit in toc -->
+## Table of Contents
+
+- [Forums](#forums)
+- [Reddit](#reddit)
+- [Meetup](#meetup)
+  - [Sports](#sports)
+  - [Technology](#technology)
+
 ## Forums
 
 - [Hardware Zone](https://forums.hardwarezone.com.sg)
