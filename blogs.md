@@ -77,6 +77,8 @@
 ## Technology
 
 - [Lester Chan](https://lesterchan.net)
+- [natalian.org](https://natalian.org) by [Kai Hendry](https://hendry.iki.fi)
+  - [dabase.com](https://dabase.com)
 
 ### Artificial Intelligence
 

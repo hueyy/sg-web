@@ -10,6 +10,7 @@
   - [Brokers](#brokers)
   - [Roboinvestors](#roboinvestors)
 - [Food](#food)
+  - [Deals](#deals)
 - [Government](#government)
 - [Housing](#housing)
 - [Job Search](#job-search)
@@ -79,6 +80,11 @@
 - [HungryGoWhere](https://www.hungrygowhere.com)
 - [Order Kopi Guide](https://kopi.guide)
 
+### Deals
+
+- [SG Food Deals](https://t.me/sgfooddeals)
+- [SG Kiasu Foodies](https://t.me/kiasufoodies)
+
 ## Government
 
 - [CheckFirst](https://www.checkfirst.gov.sg) 🏛️ - tool for building overnment program eligibility checkers
@@ -113,6 +119,10 @@
 
 ### Train
 
+- [MRT.SG](https://mrt.sg)
+  - [Geographic Map](https://mrt.sg/map)
+  - [Schematic Map](https://mrt.sg/map/schematic)
+  - [Mobile-Friendly Map](https://mrt.sg/mrt-lines)
 - [RailRouter SG](https://railrouter.sg) - explore MRT & LRT routes
 
 ### Taxi
@@ -129,6 +139,7 @@
 - [Architecture Walks Singapore](http://www.archiwalks.com)
 - [Citizen Adventures](https://www.citizenadventures.com)
 - [SingaporeRoadnameOrigins](https://github.com/michelleful/SingaporeRoadnameOrigins) - map of roads colour-coded for langauge of origin
+- [SGBuses.com](https://www.sgbuses.com) - photos and information about all buses in Singapore
 - [smrt-git](https://github.com/yangshun/smrt-git) - MRT lines visualised in a git commit history
 - [GoingPlacesSingapore.SG](http://goingplacessingapore.sg) ☠
 - [Singapore Bitcoin Directory](https://github.com/weilu/singapore-bitcoin-directory) ☠

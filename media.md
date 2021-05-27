@@ -19,7 +19,8 @@
 - [Personal Finance](#personal-finance)
 - [Technology](#technology)
 - [Satire](#satire)
-- [Social Media / Forums](#social-media--forums)
+- [Influencers](#influencers)
+  - [YouTubers](#youtubers)
 
 ## General News
 
@@ -37,8 +38,10 @@
 - [Coconuts](https://coconuts.co)
 - [Mothership](https://mothership.sg)
 - [the new paper](https://www.tnp.sg)
+- [The Smart Local](https://thesmartlocal.com)
 - [The Straits Times](https://www.straitstimes.com)
 - [TODAY](https://www.todayonline.com)
+- [Yahoo Singapore](https://sg.news.yahoo.com)
 
 #### Non-English
 
@@ -120,17 +123,12 @@
 - [The Merlion Times](https://themerliontimes.com)
 - [The Pressing Times](https://www.thepressingtimes.sg)
 
-## Social Media / Forums
+## Influencers
 
-- [Hardware Zone](https://forums.hardwarezone.com.sg)
-- Reddit
-  - [/r/singapore](https://www.reddit.com/r/singapore/)
-  - [/r/AskSingapore](https://www.reddit.com/r/askSingapore/)
-  - [/r/singaporefi](https://www.reddit.com/r/singaporefi/) - Singapore Financial Independence
-  - [/r/SGExams](https://www.reddit.com/r/SGExams/)
-  - [/r/NationalServiceNG](https://www.reddit.com/r/NationalServiceSG/)
-  - [/r/nus](https://www.reddit.com/r/nus/)
-  - [/r/NTU](https://www.reddit.com/r/NTU/)
-  - [/r/TemasekBets](https://www.reddit.com/r/TemasekBets/) - SG version of [/r/wallstreetbets](https://www.reddit.com/r/wallstreetbets)
-- [Sammyboy Forums](https://www.sammyboy.com)
-- [SG Talk](https://sgtalk.org/mybb/index.php)
+### YouTubers
+
+- [JianHao Tan](https://www.youtube.com/channel/UCGwcH4qnJ2qM_ZJUSFcAMAA)
+- [Wah!Banana](https://www.youtube.com/channel/UCAaiKcIfHEzUZl34U980sNA)
+- [Naomi Neo](https://www.youtube.com/channel/UCPg43ka6hrodDjMtySF3FnQ)
+- [Ryan Sylvia/NOC](https://www.youtube.com/channel/UC8az0OO4wXXu2k0ifJjxxBg)
+- [Sneaky Sushii](https://www.youtube.com/channel/UCbWZP5Fuvq1WzD1u-yTwyIw)
