@@ -6,22 +6,28 @@
 - [Datasets / APIs](#datasets--apis)
   - [Banking / Finance](#banking--finance)
   - [Visualisations](#visualisations)
+- [Environment](#environment)
 - [Finance / Investing](#finance--investing)
   - [Brokers](#brokers)
   - [Roboinvestors](#roboinvestors)
 - [Food](#food)
   - [Deals](#deals)
+  - [Vegan](#vegan)
+  - [Halal](#halal)
+- [Giving / Charity](#giving--charity)
 - [Government](#government)
 - [Housing](#housing)
 - [Job Search](#job-search)
 - [Meetups / Events](#meetups--events)
-- [Maps / Navigation](#maps--navigation)
+- [Transport](#transport)
   - [Bus](#bus)
+  - [Car / Driving](#car--driving)
+  - [Maps / Navigation](#maps--navigation)
   - [Train](#train)
   - [Taxi](#taxi)
   - [Nature](#nature)
   - [Misc](#misc)
-- [music](#music)
+- [Music](#music)
 - [Weather](#weather)
 
 ## Datasets / APIs
@@ -45,6 +51,10 @@
 ### Visualisations
 
 - [viz.sg](https://viz.sg)
+
+## Environment
+
+- [BYO Bottle SG](https://byobottlesg.com) - initiative to reduce wastage of single-use plastics, particularly drink bottles
 
 ## Finance / Investing
 
@@ -85,6 +95,19 @@
 - [SG Food Deals](https://t.me/sgfooddeals)
 - [SG Kiasu Foodies](https://t.me/kiasufoodies)
 
+### Vegan
+
+- [abillionveg](https://www.abillion.com) - food discovery and review platform
+- [Friendly Vegetarian (FV) Foods](https://www.friendlyvegetarian.com.sg) - online supermarket
+
+### Halal
+
+- MuslimSG [`android`](https://play.google.com/store/apps/details?id=com.muisandroid.muisandroid) [`ios`](https://apps.apple.com/sg/app/muslimsg/id1429637847) - displays halal-certified makan places
+
+## Giving / Charity
+
+- [Gift for Good](https://www.giftforgood.io) - in-kind donations platform connecting donors and non-profit organisations
+
 ## Government
 
 - [CheckFirst](https://www.checkfirst.gov.sg) 🏛️ - tool for building overnment program eligibility checkers
@@ -106,16 +129,22 @@
 - [The List](http://www.thelist.asia)
 - [WalkAbout Singapore](http://www.walkabout.sg)
 
-
-## Maps / Navigation
-
-- [CityMapper](https://citymapper.com/singapore/apps)
-- [gothere.sg](https://gothere.sg/maps)
+## Transport
 
 ### Bus
 
 - [BusRouter SG](https://busrouter.sg) - see bus stops and routes across Singapore
 - [NextBus SG](https://github.com/ninest/NextBusSG)
+
+### Car / Driving
+
+- [Parking.SG](https://www.parking.sg) - pay for parking with your phone
+- [roadtaxTracker](https://github.com/Stewart86/roadtaxTracker) - renew roadtax in bulk for a fleet of vehicles
+
+### Maps / Navigation
+
+- [CityMapper](https://citymapper.com/singapore/apps)
+- [gothere.sg](https://gothere.sg/maps)
 
 ### Train
 
@@ -144,7 +173,7 @@
 - [GoingPlacesSingapore.SG](http://goingplacessingapore.sg) ☠
 - [Singapore Bitcoin Directory](https://github.com/weilu/singapore-bitcoin-directory) ☠
 
-## music
+## Music
 
 - [VinylWhere](https://vinylwhere.netlify.app) - vinyl records search engine
 
