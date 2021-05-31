@@ -14,4 +14,4 @@
 ## About
 
 - [Why does this exist?](meta/README.md)
-- [How can I contribute?](CONTRIBUTING.md)
+- [How can I contribute?](meta/contributing.md)
