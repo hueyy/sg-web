@@ -3,9 +3,15 @@
 <!-- omit in toc -->
 ## Table of Contents
 
+- [Books](#books)
+  - [Donation](#donation)
+    - [Migrant Workers](#migrant-workers)
+    - [Textbooks](#textbooks)
 - [Datasets / APIs](#datasets--apis)
   - [Banking / Finance](#banking--finance)
   - [Visualisations](#visualisations)
+- [Education](#education)
+  - [Social / Cultural](#social--cultural)
 - [Environment](#environment)
 - [Finance / Investing](#finance--investing)
   - [Brokers](#brokers)
@@ -14,7 +20,11 @@
   - [Deals](#deals)
   - [Vegan](#vegan)
   - [Halal](#halal)
+  - [Misc](#misc)
 - [Giving / Charity](#giving--charity)
+  - [Platforms](#platforms)
+  - [Organisations](#organisations)
+  - [Misc](#misc-1)
 - [Government](#government)
 - [Housing](#housing)
 - [Job Search](#job-search)
@@ -26,9 +36,29 @@
   - [Train](#train)
   - [Taxi](#taxi)
   - [Nature](#nature)
-  - [Misc](#misc)
+  - [Misc](#misc-2)
 - [Music](#music)
 - [Weather](#weather)
+
+## Books
+
+### Donation
+
+- [Books Beyond Borders](https://www.booksbeyondborders.org)
+- [Dignity Mama by Project Dignity](https://projectdignity.sg/dignity-mama/) - book donation kiosks at NUS, NTFGH, SKH and KTPH
+- NLB Book Exchange Corners - found at select public libraries
+- [Seekabook](https://app.seekabook.com) - subscribers can exchange their read books for other books; exchange of academic books is free
+
+#### Migrant Workers
+
+- [Migrant Library Singapore](https://www.facebook.com/Migrant-Library-Singapore-151309755494905/) - welcomes donation of books in Bengali, Bahasa Indonesia, Chinese, Malay, Tagalog, Tamil, or Thai
+- [One Bag One Book](https://www.facebook.com/onebagonebook/) - aims to put a book in every worker's bag
+
+#### Textbooks
+
+- [FairPrice Share-A-Textbook Project](https://www.fairprice.com.sg/wps/portal/fp/csr/SAT)
+- [School Kaki](https://www.facebook.com/groups/schoolkaki/) [`telegram`](https://t.me/joinchat/GrB7yVKV9SAf1iz6RtClSQ) - platform for donating and exchanging used school-related items
+- [Help a Child – Donate a Book](https://www.help-a-child-donate-a-book.net/) ☠
 
 ## Datasets / APIs
 
@@ -56,6 +86,10 @@
 
 - [Kiasu Parents](https://www.kiasuparents.com/kiasu)
 - [SGExams](https://exams.sg)
+
+### Social / Cultural
+
+- [Race Relations in Singapore by better.sg](https://racerelations.better.sg)
 
 ## Environment
 
@@ -109,9 +143,25 @@
 
 - MuslimSG [`android`](https://play.google.com/store/apps/details?id=com.muisandroid.muisandroid) [`ios`](https://apps.apple.com/sg/app/muslimsg/id1429637847) - displays halal-certified makan places
 
+### Misc
+
+- [Dignity Kitchen](https://projectdignity.sg/dignity-kitchen/) - hawker stalls run by the differently-abled and disadvantaged
+
 ## Giving / Charity
 
+### Platforms
+
 - [Gift for Good](https://www.giftforgood.io) - in-kind donations platform connecting donors and non-profit organisations
+- [giving.sg](https://www.giving.sg)
+
+### Organisations
+
+- [The Salvation Army](https://www.salvationarmy.org/singapore/dik_fts)
+
+### Misc
+
+- [Singapore Freecycle Network](https://www.facebook.com/groups/sgfreecycle/)
+- [Singapore Really Really Free Market (SRRFM)](https://www.facebook.com/srrfm) - flea market where everything is free
 
 ## Government
 

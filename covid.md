@@ -103,6 +103,7 @@
 ## Travel
 
 - [Welcome Home FAQ for Singapore Returnees](https://docs.google.com/document/d/1-Xqqq10IyFnf4f94Kt4x9a-RP-YsKhYTEByIasoeSDI)
+- [SafeTravel by ICA](https://safetravel.ica.gov.sg) 🏛️ - for travel in and out of Singapore
 
 ## Vaccination
 

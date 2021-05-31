@@ -3,6 +3,7 @@
 <!-- omit in toc -->
 ## Table of Contents
 
+- [Books / Poetry / Literature](#books--poetry--literature)
 - [Food](#food)
 - [Socio-Political Commentary](#socio-political-commentary)
   - [Journalists](#journalists)
@@ -17,8 +18,13 @@
   - [Software Development](#software-development)
   - [Security](#security)
 - [Medicine](#medicine)
+- [Parenting](#parenting)
 - [Writing](#writing)
 - [General](#general)
+
+## Books / Poetry / Literature
+
+- [Alice Teh Larsson](https://www.aliceteh.com)
 
 ## Food
 
@@ -115,6 +121,7 @@
 - [Marcus Koh Chi Hao](https://kohchihao.com)
 - [Ming Liang Khong](https://minggliangg.github.io)
 - [Sean Low Jun Kai](https://seanlowjk.github.io/website/)
+- [Shem Maleriado](https://nextjs-blog-sheimoria.vercel.app)
 - [Sherman Lim](https://shermz-lim.github.io/portfolio/)
 - [Stewart Wong](https://github.com/Stewart86)
 - [Vanessa Cassandra](https://www.vancassa.com)
@@ -130,6 +137,10 @@
 ## Medicine
 
 - [Anthony Lianjie Li](https://llja0112.github.io) - Medical Officer at the National Center for Infectious Diseases
+
+## Parenting
+
+- [Diary of a New Mom](https://diaryofanewmom.com)
 
 ## Writing
 

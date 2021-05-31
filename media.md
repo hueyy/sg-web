@@ -27,6 +27,7 @@
 ### Boutique / Independent / Niche
 
 - [Campus Magazine](https://www.campus.sg)
+- [Goody Feed Singapore](https://goodyfeed.com)
 - [thehomeground.asia](https://www.thehomeground.asia)
 - [unscrambled.sg](https://unscrambled.sg)
 
@@ -93,6 +94,7 @@
 
 - [Esquire SG](https://www.esquiresg.com) - men's fashion
 - [Popspoken](https://popspoken.com) - independent coverage of music, art, and culture
+- [zula](https://zula.sg)
 
 ### Non-English
 
