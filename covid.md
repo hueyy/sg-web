@@ -37,9 +37,11 @@
 ## Community
 
 - [Eastside Helpers / Eastside Mutual Aid](https://linktr.ee/Eastsidehelpers)
+- [Food4Seniors w/o Tech by Strongsilvers](https://gifting.sg/food4seniors)
 - [GoodHood.SG](https://www.goodhoodsg.com) - localised community social network
 - [KampungKakis](https://kampungkakis.org) - platform matching elderly and vulnerable residents with volunteers
 - [Mutual Aid and Community Solidarity](https://docs.google.com/spreadsheets/d/1XzScy_hXVg7hVScZ_g6RBxq-ubkyvt601zD88w1IOo4) - spreadsheet connecting people with needs with those offering support
+- [Scratchbac](https://scratchbac.com) - a hyper-local platform connecting neighbours and making it convenient for them to share resources and help one another
 - [SG Assist](https://www.sgassist.com) - connects volunteers and those who need help
 
 ## Compliance
@@ -57,6 +59,7 @@
 - [Just Dabao](https://justdabao.com/) - social enterprise helping F&B outlets sell their excess stock
 - [Save Our Nomnoms](https://www.saveournomnoms.com)
 - [Singapore Restaurant Rescue](https://www.facebook.com/groups/703761213763956/)
+- [@wheretodapao](https://www.instagram.com/wheretodapao/)
 
 ## Groceries
 
