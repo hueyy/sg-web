@@ -53,13 +53,13 @@
 
 - [Chew App](https://www.chewapp.co) - matches requestors (Kee Chew) with volunteers (Soon Chew) willing to help out
 - [FoodLeh?](https://www.foodleh.app) - food delivery without the middleman
-- [Hawkers United](https://www.facebook.com/groups/HawkersUnited2020/)
+- [Hawkers United](https://www.facebook.com/groups/HawkersUnited2020/) - Facebook group for hawkers to publicise their online delivery options
 - [Help Our Hawkers](https://www.google.com/maps/d/viewer?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&ll=1.3174863749308747%2C103.87869089999995&z=14) - map of hawkers who are not digitally literate enough to take advantage of delivery
-- [JointHawker](https://www.jointhawker.com/en/)
+- [JointHawker](https://www.jointhawker.com/en/) - platform for searching for hawker food with online delivery
 - [Just Dabao](https://justdabao.com/) - social enterprise helping F&B outlets sell their excess stock
-- [Save Our Nomnoms](https://www.saveournomnoms.com)
-- [Singapore Restaurant Rescue](https://www.facebook.com/groups/703761213763956/)
-- [@wheretodapao](https://www.instagram.com/wheretodapao/)
+- [Save Our Nomnoms](https://www.saveournomnoms.com) - platform for searching for hawker food with online delivery
+- [Singapore Restaurant Rescue](https://www.facebook.com/groups/703761213763956/) - Facebook group for sharing restaurants with online delivery
+- [@wheretodapao](https://www.instagram.com/wheretodapao/) - Instagram account helping hawkers get publicity and delivery orders
 
 ## Groceries
 
