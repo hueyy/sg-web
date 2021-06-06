@@ -129,6 +129,12 @@
 - [HungryGoWhere](https://www.hungrygowhere.com)
 - [Order Kopi Guide](https://kopi.guide)
 
+### Dabao / Takeaway / Group Buys
+
+- [KopiRun](https://kopirun.com)
+
+Also see [the Food section in the COVID-19 section](covid.md#food).
+
 ### Deals
 
 - [SG Food Deals](https://t.me/sgfooddeals)
