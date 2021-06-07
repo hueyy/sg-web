@@ -111,6 +111,7 @@
 ## Vaccination
 
 - [Vaccination Registration](https://www.vaccine.gov.sg) 🏛️
+- [#iamvaccinatedsg](https://iamvaccinated.sg) - promotions and discounts available if you show your Healthhub vaccination certificate
 
 ## Misc
 
