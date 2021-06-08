@@ -57,6 +57,7 @@
 - [Help Our Hawkers](https://www.google.com/maps/d/viewer?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&ll=1.3174863749308747%2C103.87869089999995&z=14) - map of hawkers who are not digitally literate enough to take advantage of delivery
 - [JointHawker](https://www.jointhawker.com/en/) - platform for searching for hawker food with online delivery
 - [Just Dabao](https://justdabao.com/) - social enterprise helping F&B outlets sell their excess stock
+- [Project Hawker](https://projecthawker.com/) - project aiming to be a consolidated place to list all hawkers and their stories
 - [Save Our Nomnoms](https://www.saveournomnoms.com) - platform for searching for hawker food with online delivery
 - [Singapore Restaurant Rescue](https://www.facebook.com/groups/703761213763956/) - Facebook group for sharing restaurants with online delivery
 - [@wheretodapao](https://www.instagram.com/wheretodapao/) - Instagram account helping hawkers get publicity and delivery orders
