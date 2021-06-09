@@ -37,12 +37,16 @@
 ## Community
 
 - [Eastside Helpers / Eastside Mutual Aid](https://linktr.ee/Eastsidehelpers)
-- [Food4Seniors w/o Tech by Strongsilvers](https://gifting.sg/food4seniors)
+- [Food4Seniors w/o Tech by Strongsilvers](https://gifting.sg/food4seniors) - campaign to buy food for elderly people who are less able to use food delivery apps themselves
+- [Good Food For Community](https://www.sswithyou.sg/gffc) by Society Staples Cares - project providing meals to underserved communities
 - [GoodHood.SG](https://www.goodhoodsg.com) - localised community social network
 - [KampungKakis](https://kampungkakis.org) - platform matching elderly and vulnerable residents with volunteers
 - [Mutual Aid and Community Solidarity](https://docs.google.com/spreadsheets/d/1XzScy_hXVg7hVScZ_g6RBxq-ubkyvt601zD88w1IOo4) - spreadsheet connecting people with needs with those offering support
+- [My Treat](http://fatfuku.com/mytreat/) by FatFuku - platform allowing you to treat someone else to a meal
 - [Scratchbac](https://scratchbac.com) - a hyper-local platform connecting neighbours and making it convenient for them to share resources and help one another
 - [SG Assist](https://www.sgassist.com) - connects volunteers and those who need help
+- [Belanja Eat](https://belanjaeat.com) ☠ - project allowing people to 'belanja' (i.e. treat someone else to) a free hawker meal
+- [SG Pays It Forward](https://www.sgpaysitforward.com) ☠ [`archive`](https://web.archive.org/web/20200723045344/https://www.sgpaysitforward.com/) - a national movement for individuals and organisations to step up by buying a kit of essentials for vulnerable communities
 
 ## Compliance
 
@@ -51,21 +55,32 @@
 
 ## Food
 
-- [Chew App](https://www.chewapp.co) - matches requestors (Kee Chew) with volunteers (Soon Chew) willing to help out
-- [FoodLeh?](https://www.foodleh.app) - food delivery without the middleman
+- [Chew App](https://www.chewapp.co) - matches requestors (Kee Chew) with volunteers (Soon Chew) willing to help dabao food
+- [Dine in Movement](https://www.dineinmovement.com) - list of restaurants offering delivery
+- [FoodLeh?](https://www.foodleh.app) - platform connecting hawkers with buyers to dabao or have food delivered without middleman fees
 - [Hawkers United](https://www.facebook.com/groups/HawkersUnited2020/) - Facebook group for hawkers to publicise their online delivery options
-- [Help Our Hawkers](https://www.google.com/maps/d/viewer?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&ll=1.3174863749308747%2C103.87869089999995&z=14) - map of hawkers who are not digitally literate enough to take advantage of delivery
+- [Help Our Hawkers](https://hawker.help) [`google maps`](https://www.google.com/maps/d/viewer?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&ll=1.3174863749308747%2C103.87869089999995&z=14) - map of hawkers who are not digitally literate enough to take advantage of delivery
+- [iHEARTFNB](https://www.iheartfnb.com) - platform for searching for food options by region and by category (e.g. restaurant, cafe, hawker, etc.)
 - [JointHawker](https://www.jointhawker.com/en/) - platform for searching for hawker food with online delivery
+- [KOPI-19](https://sheet2site.com/api/v3/index.php?key=1cVolT0IJ5LeudmhYMAZMupgI3AR3_uoWXKRQXYlX8WQ&g=1) - directory of hawkers and small F&B outlets
 - [Just Dabao](https://justdabao.com/) - social enterprise helping F&B outlets sell their excess stock
 - [Project Hawker](https://projecthawker.com/) - project aiming to be a consolidated place to list all hawkers and their stories
 - [Save Our Nomnoms](https://www.saveournomnoms.com) - platform for searching for hawker food with online delivery
+- [SG Dabao](https://sgdabao.com) - free platform listing hawkers that you can dabao
+- [Singapore Food Delivery Guide](https://thesmartlocal.com/delivery/) by The Smart Local - list of F&B outlets offering direct delivery
 - [Singapore Restaurant Rescue](https://www.facebook.com/groups/703761213763956/) - Facebook group for sharing restaurants with online delivery
+- [#LoveYourLocal Singapore](https://www.tripadvisor.com.sg/LoveYourLocalSG) by TripAdvisor - list of F&B restaurant delivery deals
+- [#SupportLocalSG](https://supportlocal.sg) - compilation of local F&B businesses, including hawkers, restaurants, cafes, grocers, and meal plan providers
 - [@wheretodapao](https://www.instagram.com/wheretodapao/) - Instagram account helping hawkers get publicity and delivery orders
+- [Dabao Life](https://dabao.life) by [Konbini](https://konbinisg.com)  [`archive`](https://web.archive.org/web/20210128092456/https://dabao.life/) ☠ - map of hawkers to dabao from
+- [FoodHood](https://foodhood.sg) [`archive`](https://web.archive.org/web/20210302163503/https://foodhood.sg/) ☠ - platform for organising group dabaos in Jalan Besar
+- [Support Restaurants SG](https://www.supportrestaurantsg.com) ☠ - list of restaurants to support categorised by region
+- [WetMarket.services](https://wetmarket.services) ☠
 
 ## Groceries
 
-- [#4thepeople by KGS](https://www.kgs.com.sg/4thepeople)
-- [Project Stable Staples](https://projectstablestaples.sg)
+- [#4thepeople by KGS](https://www.kgs.com.sg/4thepeople) - initiative to buy and deliver groceries to persons affected by COVID-19
+- [Project Stable Staples](https://projectstablestaples.sg) - initiative providing fortnightly grocery vouchers to rental communities
 - [Where Got Slot](https://www.yourblazeguard.com/where-got-slot/) - check delivery slots with one click
 
 ## If you might have it
@@ -85,6 +100,10 @@
 - [Volunteer Career Advisors Initiative by WSG](https://wsgvcai.glideapp.io) 🏛️
 - [Virtual Career Fair by MyCareersFuture](https://vcf.mycareersfuture.gov.sg/vcf) 🏛️
 - [Who's Still Hiring by Wantedly](https://sg.wantedly.com/hiring_freezes/sg)
+
+## Local Businesses
+
+- [Chope&Save](https://chopeandsave.com) [`archive`](https://web.archive.org/web/20210115144817/https://chopeandsave.com/) ☠ - platform allowing users to support local businesses by buying gift cards
 
 ## Social Distancing
 
