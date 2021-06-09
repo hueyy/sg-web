@@ -11,6 +11,7 @@
 - [Groceries](#groceries)
 - [If you might have it](#if-you-might-have-it)
 - [Jobs](#jobs)
+- [Local Businesses](#local-businesses)
 - [Social Distancing](#social-distancing)
 - [Statistics](#statistics)
   - [Visualisations](#visualisations)
@@ -72,8 +73,8 @@
 - [#LoveYourLocal Singapore](https://www.tripadvisor.com.sg/LoveYourLocalSG) by TripAdvisor - list of F&B restaurant delivery deals
 - [#SupportLocalSG](https://supportlocal.sg) - compilation of local F&B businesses, including hawkers, restaurants, cafes, grocers, and meal plan providers
 - [@wheretodapao](https://www.instagram.com/wheretodapao/) - Instagram account helping hawkers get publicity and delivery orders
-- [Dabao Life](https://dabao.life) by [Konbini](https://konbinisg.com)  [`archive`](https://web.archive.org/web/20210128092456/https://dabao.life/) ☠ - map of hawkers to dabao from
-- [FoodHood](https://foodhood.sg) [`archive`](https://web.archive.org/web/20210302163503/https://foodhood.sg/) ☠ - platform for organising group dabaos in Jalan Besar
+- [Dabao Life](https://dabao.life) by [Konbini](https://konbinisg.com) ☠ [`archive`](https://web.archive.org/web/20210128092456/https://dabao.life/) - map of hawkers to dabao from
+- [FoodHood](https://foodhood.sg) ☠ [`archive`](https://web.archive.org/web/20210302163503/https://foodhood.sg/) - platform for organising group dabaos in Jalan Besar
 - [Support Restaurants SG](https://www.supportrestaurantsg.com) ☠ - list of restaurants to support categorised by region
 - [WetMarket.services](https://wetmarket.services) ☠
 
@@ -92,6 +93,7 @@
 
 - [Arts Resource Hub](https://www.artsresourcehub.gov.sg) 🏛️ - jobs for arts freelancers
 - [COVID-19 SUPPORT: Helping Talents in the Travel Industry](https://docs.google.com/spreadsheets/d/1VvxbBMiEkjs0HA8vq_ClpSpT6tpwPOGGbLVqsOzwLI4) - spreadsheet listing job-seekers and opportunities in the travel industry
+- [JobsHippo / Jobs Go Where?](https://jobshippo.com.sg) - jobs board for job-seekers and employers
 - [SEAriously Awesome People List - Startup COVID-19 Layoffs](https://docs.google.com/spreadsheets/d/1U13Ef3EnJnMzuElElAJPbWiNBKutQuB7ldQED4C8L_Y/edit#gid=646084865) - spreadsheet matching job-seekers and opportunities in startups
 - [MyCareersFuture Job Search](https://employer.mycareersfuture.gov.sg/) 🏛️
 - [SGUnited Mid-Career Pathways Programme](https://www.wsg.gov.sg/programmes-and-initiatives/SGUnitedMidCareerPathways-Trainees.html) 🏛️
@@ -103,7 +105,7 @@
 
 ## Local Businesses
 
-- [Chope&Save](https://chopeandsave.com) [`archive`](https://web.archive.org/web/20210115144817/https://chopeandsave.com/) ☠ - platform allowing users to support local businesses by buying gift cards
+- [Chope&Save](https://chopeandsave.com) ☠ [`archive`](https://web.archive.org/web/20210115144817/https://chopeandsave.com/) - platform allowing users to support local businesses by buying gift cards
 
 ## Social Distancing
 
@@ -121,6 +123,7 @@
 
 - [pvvbc](https://ppvbc.github.io) - map of public locations visited by infectious persons
 - [SG Vaccine Tracker](https://vaccine.justinng.net)
+- [Singapore Vaccination Dashboard](https://vaxdashboard.com) - number of vaccinated persons, projected timeline, overall progress, etc.
 - [COVID-19 Singapore Tracker](https://github.com/wentjun/covid-19-sg) ☠
 
 ## Travel
@@ -131,6 +134,7 @@
 ## Vaccination
 
 - [Vaccination Registration](https://www.vaccine.gov.sg) 🏛️
+  - [Map of Vaccination Centres](https://www.onemap.gov.sg/main/v2/vaccination) 🏛️
 - [#iamvaccinatedsg](https://iamvaccinated.sg) - promotions and discounts available if you show your Healthhub vaccination certificate
 
 ## Misc

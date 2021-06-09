@@ -15,6 +15,7 @@
 - [Technology](#technology)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Data Analytics / Data Science / Statistics](#data-analytics--data-science--statistics)
+  - [Homelab](#homelab)
   - [Software Development](#software-development)
   - [Security](#security)
 - [Medicine](#medicine)
@@ -102,6 +103,11 @@
 - [Singapore & more in numbers by Kenneth Lim](https://numbers.sg)
 - [Wang Han](https://hans0124sg.github.io)
 
+### Homelab
+
+- [Ikarus.sg by Will Ho](https://ikarus.sg)
+- [Zane Chua](https://zanechua.com)
+
 ### Software Development
 
 - [Aaron Ong](https://aaronong.github.io) - liberal arts student, now a software engineer at Facebook
@@ -110,8 +116,8 @@
 - [Fabian Terh](https://fabianterh.me) - software engineer at Facebook
 - ["Frank" Junchao Gu](https://franklingu.github.io) - software engineer at Bytedance
 - [Ho Jia Ling](https://jialiang.github.io)
-- [Ikarus.sg by Will Ho](https://ikarus.sg)
 - [Inari Listenmaa](https://inariksit.github.io)
+- [Jacob Tan](https://jacobtan.co)
 - [Julius Putra Tanu Setiaji](https://www.indocomsoft.com)
 - [Justin Ng](https://www.justinng.net) - software engineer at Slack
 - [Kar Rui Lau](https://karrui.dev/) - software engineer at Open Government Products, GovTech

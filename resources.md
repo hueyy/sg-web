@@ -7,6 +7,7 @@
   - [Donation](#donation)
     - [Migrant Workers](#migrant-workers)
     - [Textbooks](#textbooks)
+  - [eBooks](#ebooks)
 - [Datasets / APIs](#datasets--apis)
   - [Banking / Finance](#banking--finance)
   - [Visualisations](#visualisations)
@@ -17,6 +18,7 @@
   - [Brokers](#brokers)
   - [Roboinvestors](#roboinvestors)
 - [Food](#food)
+  - [Dabao / Takeaway / Group Buys](#dabao--takeaway--group-buys)
   - [Deals](#deals)
   - [Vegan](#vegan)
   - [Halal](#halal)
@@ -59,6 +61,10 @@
 - [FairPrice Share-A-Textbook Project](https://www.fairprice.com.sg/wps/portal/fp/csr/SAT)
 - [School Kaki](https://www.facebook.com/groups/schoolkaki/) [`telegram`](https://t.me/joinchat/GrB7yVKV9SAf1iz6RtClSQ) - platform for donating and exchanging used school-related items
 - [Help a Child – Donate a Book](https://www.help-a-child-donate-a-book.net/) ☠
+
+### eBooks
+
+- [NLB Mobile App](https://mobileapp.nlb.gov.sg) 🏛️ - eBooks, eAudiobooks, eNewspapers, and eMagazines
 
 ## Datasets / APIs
 

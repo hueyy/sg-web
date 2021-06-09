@@ -1,4 +1,4 @@
-# 🇸🇬 SG Internet Directory
+# 🇸🇬 Singapore Internet Directory
 
 ## Contents
 
