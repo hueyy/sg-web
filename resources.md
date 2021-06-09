@@ -126,7 +126,7 @@
 ## Food
 
 - [Amazing Food Race (Singapore Edition)](https://app.gametize.com/project/33)
-- [HungryGoWhere](https://www.hungrygowhere.com)
+- [HungryGoWhere](https://www.hungrygowhere.com) ☠
 - [Order Kopi Guide](https://kopi.guide)
 
 ### Dabao / Takeaway / Group Buys
