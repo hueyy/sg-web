@@ -1,0 +1,24 @@
+{
+  "projectName": "sg-web",
+  "projectOwner": "hueyy",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "hueyy",
+      "name": "Huey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6523121?v=4",
+      "profile": "https://github.com/hueyy",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
