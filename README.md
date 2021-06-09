@@ -29,7 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Huey</b></sub></a><br /><a href="#content-hueyy" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Huey</b></sub></a><br /><a href="#content-hueyy" title="Content">🖋</a> <a href="#ideas-hueyy" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
