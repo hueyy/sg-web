@@ -22,16 +22,16 @@
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+[Emoji key](https://allcontributors.org/docs/en/emoji-key):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Huey</b></sub></a><br /><a href="#ideas-hueyy" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/billiebongo"><img src="https://avatars.githubusercontent.com/u/39232407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lek</b></sub></a><br /><a href="#content-billiebongo" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/nelsontky"><img src="https://avatars.githubusercontent.com/u/7272103?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nelsontky</b></sub></a><br /><a href="#content-nelsontky" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/hueyy"><img src="https://avatars.githubusercontent.com/u/6523121?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Huey</b></sub></a><br /><a href="#ideas-hueyy" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-hueyy" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/billiebongo"><img src="https://avatars.githubusercontent.com/u/39232407?v=4?s=50" width="50px;" alt=""/><br /><sub><b>lek</b></sub></a><br /><a href="#content-billiebongo" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/nelsontky"><img src="https://avatars.githubusercontent.com/u/7272103?v=4?s=50" width="50px;" alt=""/><br /><sub><b>nelsontky</b></sub></a><br /><a href="#content-nelsontky" title="Content">🖋</a></td>
   </tr>
 </table>
 
