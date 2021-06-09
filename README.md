@@ -14,7 +14,7 @@
 ## About
 
 - [Why does this exist?](meta/README.md)
-- [How can I contribute?](meta/contributing.md)
+- [How can I contribute?](meta/how-to-contribute.md)
 
 ## Contributors ✨
 

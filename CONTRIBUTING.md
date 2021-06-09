@@ -1,3 +1,3 @@
 # Contributing
 
-See [here](meta/contributing.md).
+See [here](meta/how-to-contribute.md).
