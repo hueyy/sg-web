@@ -8,6 +8,7 @@
 - [Personal Sites / Blogs](blogs.md)
 - [Resources](resources.md) - apps, lists, guides, etc.
 - [Social](social.md) - forums, groups, online communities, etc.
+- [Legal](legal.md) - sources of law, legal resources, tools, blogs, etc.
 - [Universities](universities.md)
 - [Misc](misc.md)
 

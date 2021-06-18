@@ -111,6 +111,7 @@
 ### Software Development
 
 - [Aaron Ong](https://aaronong.github.io) - liberal arts student, now a software engineer at Facebook
+- [Ajmal Afif](https://ajmalafif.com)
 - [Chen Hui Jing](https://chenhuijing.com)
 - ["Eli James" Cendric Chin](http://elijames.org) - product manager at Floating Cube Studios
 - [Fabian Terh](https://fabianterh.me) - software engineer at Facebook
@@ -125,7 +126,10 @@
 - [Li Haoyi](https://www.lihaoyi.com) - scala
 - [Lim Chee Aun](https://cheeaun.com) - web developer
 - [Marcus Koh Chi Hao](https://kohchihao.com)
+- [Maythee Anegboonlap](https://www.llun.me)
 - [Ming Liang Khong](https://minggliangg.github.io)
+- [Ravern Koh](https://ravern.zone)
+- [Sean Lim](https://sean.place/)
 - [Sean Low Jun Kai](https://seanlowjk.github.io/website/)
 - [Shem Maleriado](https://nextjs-blog-sheimoria.vercel.app)
 - [Sherman Lim](https://shermz-lim.github.io/portfolio/)
