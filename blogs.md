@@ -103,6 +103,11 @@
 - [Singapore & more in numbers by Kenneth Lim](https://numbers.sg)
 - [Wang Han](https://hans0124sg.github.io)
 
+### Hardware / IoT
+
+- [Andrew "bunnie" huang](https://www.bunniestudios.com/) - well-known hardware hacker based in Singapore
+- [LEE Lup Yuen](https://lupyuen.github.io/) - Techie and Educator in IoT
+
 ### Homelab
 
 - [Ikarus.sg by Will Ho](https://ikarus.sg)
@@ -128,6 +133,7 @@
 - [Marcus Koh Chi Hao](https://kohchihao.com)
 - [Maythee Anegboonlap](https://www.llun.me)
 - [Ming Liang Khong](https://minggliangg.github.io)
+- [Quasilinear Musings by Timothy Lin](https://www.timlrx.com)
 - [Ravern Koh](https://ravern.zone)
 - [Sean Lim](https://sean.place/)
 - [Sean Low Jun Kai](https://seanlowjk.github.io/website/)
