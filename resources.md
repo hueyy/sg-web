@@ -41,6 +41,7 @@
   - [Misc](#misc-2)
 - [Music](#music)
 - [Weather](#weather)
+  - [Haze](#haze)
 
 ## Books
 
@@ -100,6 +101,7 @@
 ## Environment
 
 - [BYO Bottle SG](https://byobottlesg.com) - initiative to reduce wastage of single-use plastics, particularly drink bottles
+- [Recycle Go Where? / Recycle Tree](https://recycletree.pyesonekyaw.com) - tells you where the nearest recycling facility is
 
 ## Finance / Investing
 
@@ -254,3 +256,10 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
   - [Weather@SG by MSS](http://www.weather.gov.sg/home/) [`android`](https://play.google.com/store/apps/details?id=sg.gov.weather.weatheratsg.production) [`ios`](https://apps.apple.com/sg/app/weather-sg/id1091263497) ☠ (no longer supported but still appears to be functional)
 - [checkweather.sg](https://checkweather.sg)
   - [iOS version](https://apps.apple.com/app/check-weather-sg/id1510170224)
+- [Rain Korkor](https://t.me/rainkorkorbot) - a Telegram bot that displays satellite imagery of rain clouds over Singapore
+
+### Haze
+
+- Haze@SG [`android`](https://play.google.com/store/apps/details?id=com.hosay.hazesg) [`ios`](https://apps.apple.com/sg/app/haze-sg/id663816616) - mobile app displaying the AQI, PSI & PM2.5 readings across Singapore
+- [Thank you indo for the clean air](https://thankyouindoforthecleanair.web.app) - a webpage to thank Indonesia for the clean air it continuously sends Singapore
+- [PSI SG](https://cheeaun.github.io/psi-sg) ☠ - a web app that displays PSI readings in Singapore

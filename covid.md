@@ -121,6 +121,7 @@
 
 ### Visualisations
 
+- [Amelia Vaccine Bot](https://t.me/AmeliaVaccineBot) - a Telegram bot for finding and booking a vaccination appointment
 - [pvvbc](https://ppvbc.github.io) - map of public locations visited by infectious persons
 - [SG Vaccine Tracker](https://vaccine.justinng.net)
 - [Singapore Vaccination Dashboard](https://vaxdashboard.com) - number of vaccinated persons, projected timeline, overall progress, etc.

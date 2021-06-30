@@ -15,6 +15,7 @@
 - [Technology](#technology)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Data Analytics / Data Science / Statistics](#data-analytics--data-science--statistics)
+  - [Hardware / IoT](#hardware--iot)
   - [Homelab](#homelab)
   - [Software Development](#software-development)
   - [Security](#security)
@@ -93,6 +94,7 @@
 
 ### Artificial Intelligence
 
+- [Bo Jiayuan](https://www.bojianyuan.com) - PhD student at SMU
 - [Chaitanya Joshi](https://www.chaitjo.com)
 - [Reza Shokri](https://www.comp.nus.edu.sg/~reza/) - Assistant Professor at NUS
 
@@ -121,18 +123,24 @@
 - ["Eli James" Cendric Chin](http://elijames.org) - product manager at Floating Cube Studios
 - [Fabian Terh](https://fabianterh.me) - software engineer at Facebook
 - ["Frank" Junchao Gu](https://franklingu.github.io) - software engineer at Bytedance
+- [Hadi Rickit](https://rickithadi.com)
 - [Ho Jia Ling](https://jialiang.github.io)
+- [Ian Chen](https://ianchen.xyz)
 - [Inari Listenmaa](https://inariksit.github.io)
 - [Jacob Tan](https://jacobtan.co)
+- [Jean Tan](https://www.jeantan.sg) - OGP
 - [Julius Putra Tanu Setiaji](https://www.indocomsoft.com)
 - [Justin Ng](https://www.justinng.net) - software engineer at Slack
 - [Kar Rui Lau](https://karrui.dev/) - software engineer at Open Government Products, GovTech
+- [Kenneth Ang](https://ksami.github.io) - senior software enginner at Dyson
 - [Lakshyajeet Dwivedee](https://laksh22.github.io)
+- [Laura Lee](https://laura-xy-lee.github.io)
 - [Li Haoyi](https://www.lihaoyi.com) - scala
 - [Lim Chee Aun](https://cheeaun.com) - web developer
 - [Marcus Koh Chi Hao](https://kohchihao.com)
 - [Maythee Anegboonlap](https://www.llun.me)
 - [Ming Liang Khong](https://minggliangg.github.io)
+- [Pye Sone Kyaw](https://pyesonekyaw.com)
 - [Quasilinear Musings by Timothy Lin](https://www.timlrx.com)
 - [Ravern Koh](https://ravern.zone)
 - [Sean Lim](https://sean.place/)
@@ -140,6 +148,7 @@
 - [Shem Maleriado](https://nextjs-blog-sheimoria.vercel.app)
 - [Sherman Lim](https://shermz-lim.github.io/portfolio/)
 - [Stewart Wong](https://github.com/Stewart86)
+- [Vishaag Suriyanarayanan](https://vishaag.com) - frontend developer at BandLab
 - [Vanessa Cassandra](https://www.vancassa.com)
 - [Wei Gao](https://wgea.io)
 - [Zell Liew](https://zellwk.com)
