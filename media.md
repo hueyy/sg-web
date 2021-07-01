@@ -28,6 +28,7 @@
 
 - [Campus Magazine](https://www.campus.sg)
 - [Goody Feed Singapore](https://goodyfeed.com)
+- [The Parrot Review](https://www.theparrotreview.com)
 - [thehomeground.asia](https://www.thehomeground.asia)
 - [unscrambled.sg](https://unscrambled.sg)
 
