@@ -121,6 +121,7 @@
 - [Aaron Ong](https://aaronong.github.io) - liberal arts student, now a software engineer at Facebook
 - [Ajmal Afif](https://ajmalafif.com)
 - [Chen Hui Jing](https://chenhuijing.com)
+- [Chiang Fong Lee](https://www.cflee.com)
 - ["Eli James" Cendric Chin](http://elijames.org) - product manager at Floating Cube Studios
 - [Fabian Terh](https://fabianterh.me) - software engineer at Facebook
 - ["Frank" Junchao Gu](https://franklingu.github.io) - software engineer at Bytedance
