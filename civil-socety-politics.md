@@ -65,3 +65,4 @@
 ## Platforms
 
 - [Dialectic.sg](http://dialectic.sg) ☠ - discussion platform
+- [Ideas](https://www.ideas.gov.sg/home) - Contribute ideas to Government agencies
