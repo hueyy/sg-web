@@ -180,6 +180,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 ## Government
 
 - [CheckFirst](https://www.checkfirst.gov.sg) 🏛️ - tool for building overnment program eligibility checkers
+- [onlyfines.me](http://www.onlyfines.me/) - pay your fines online via AXS e-services
 
 ## Housing
 

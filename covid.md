@@ -8,12 +8,14 @@
 - [Community](#community)
 - [Compliance](#compliance)
 - [Food](#food)
+  - [Eating Out (Jul 2021)](#eating-out-jul-2021)
 - [Groceries](#groceries)
 - [If you might have it](#if-you-might-have-it)
 - [Jobs](#jobs)
 - [Local Businesses](#local-businesses)
 - [Social Distancing](#social-distancing)
 - [Statistics](#statistics)
+  - [Scrapers](#scrapers)
   - [Visualisations](#visualisations)
 - [Travel](#travel)
 - [Vaccination](#vaccination)
@@ -78,6 +80,15 @@
 - [Support Restaurants SG](https://www.supportrestaurantsg.com) ☠ - list of restaurants to support categorised by region
 - [WetMarket.services](https://wetmarket.services) ☠
 
+### Eating Out (Jul 2021)
+
+These were built in light of the Jul 2021 COVID restrictions in SG:
+
+- [Can we eat or not](http://www.sgcanweeat.com/) - a game where you have to decide if various combinations of people can eat out or not
+- [Can we dine in? 🍽 🤔](https://canwedine.in/) - a simple tool to help you figure out if your group can dine in or not
+- [Dine-In Group Checker](https://www.checkfirst.gov.sg/c/ad145dcd-f885-449a-8ac4-25d338bad262) 🏛️ - official tool for checking if a group can dine in from 19 July onwards
+- [Only two diners allowed](https://onlytwo.vercel.app/) - list showing food establishments that only allow 2 persons to dine in together, regardless of vaccination status
+
 ## Groceries
 
 - [#4thepeople by KGS](https://www.kgs.com.sg/4thepeople) - initiative to buy and deliver groceries to persons affected by COVID-19
@@ -118,6 +129,10 @@
 
 - [Datasets for COVID-19 in Singapore and Malaysia](https://github.com/alphamodel/COVID-19-SG)
 - [Spreadsheet with breakdown of imported cases](https://docs.google.com/spreadsheets/d/1ONQOU338geT9kZlKH1KIP2pXhodc4-zRsrDaxT_OYps)
+
+### Scrapers
+
+- [mohbot](https://github.com/jpatokal/mohbot) - scrapes Reddit for MOH updates
 
 ### Visualisations
 

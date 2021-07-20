@@ -178,3 +178,4 @@
 Blogs which cover a wide range of topics are listed here:
 
 - [Chng Poh Tiong](https://www.chngpohtiong.com)
+- [Gyrovague](https://gyrovague.com/) by [Jani Patokallio](http://www.patokallio.name/)
