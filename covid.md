@@ -127,8 +127,9 @@ These were built in light of the Jul 2021 COVID restrictions in SG:
 
 ## Statistics
 
-- [Datasets for COVID-19 in Singapore and Malaysia](https://github.com/alphamodel/COVID-19-SG)
+- [Datasets for COVID-19 in Singapore and Malaysia](https://github.com/alphamodel/COVID-19-SG) - Singapore & Malaysia COVID-19 data from multiple data sources (Zaobao, MOH), updated every 10 minutes
 - [Spreadsheet with breakdown of imported cases](https://docs.google.com/spreadsheets/d/1ONQOU338geT9kZlKH1KIP2pXhodc4-zRsrDaxT_OYps)
+- [MOHVaccinationStats](https://github.com/ShaunLWM/MOHVaccinationStats)
 
 ### Scrapers
 
@@ -136,7 +137,7 @@ These were built in light of the Jul 2021 COVID restrictions in SG:
 
 ### Visualisations
 
-- [Amelia Vaccine Bot](https://t.me/AmeliaVaccineBot) - a Telegram bot for finding and booking a vaccination appointment
+- [MOH Situation Report](https://covidsitrep.moh.gov.sg/) 🏛️
 - [pvvbc](https://ppvbc.github.io) - map of public locations visited by infectious persons
 - [SG Vaccine Tracker](https://vaccine.justinng.net)
 - [Singapore Vaccination Dashboard](https://vaxdashboard.com) - number of vaccinated persons, projected timeline, overall progress, etc.
@@ -152,10 +153,12 @@ These were built in light of the Jul 2021 COVID restrictions in SG:
 - [Vaccination Registration](https://www.vaccine.gov.sg) 🏛️
   - [Map of Vaccination Centres](https://www.onemap.gov.sg/main/v2/vaccination) 🏛️
 - [#iamvaccinatedsg](https://iamvaccinated.sg) - promotions and discounts available if you show your Healthhub vaccination certificate
+- [Amelia Vaccine Bot](https://t.me/AmeliaVaccineBot) - a Telegram bot for finding and booking a vaccination appointment
 
 ## Misc
 
 - [SGbono](https://sgbono.org) - free refurbished laptops / desktops for Chas Blue card holders
+- [ktv.or-condo.com](https://github.com/andre-low/ktv.or-condo.com) - a quiz to test your ability to tell apart stupid KTV names from stupid condominium names in Singapore (built in light of the Jul 2021 KTV cluster)
 
 ## Other Lists
 

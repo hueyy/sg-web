@@ -15,6 +15,7 @@
   - [Social / Cultural](#social--cultural)
 - [Environment](#environment)
 - [Finance / Investing](#finance--investing)
+- [Fitness / Exercise](#fitness--exercise)
   - [Brokers](#brokers)
   - [Roboinvestors](#roboinvestors)
 - [Food](#food)
@@ -31,6 +32,10 @@
 - [Housing](#housing)
 - [Job Search](#job-search)
 - [Meetups / Events](#meetups--events)
+- [Music](#music)
+- [Neighbourhoods](#neighbourhoods)
+- [Telcos](#telcos)
+  - [Software Libraries](#software-libraries)
 - [Transport](#transport)
   - [Bus](#bus)
   - [Car / Driving](#car--driving)
@@ -39,9 +44,10 @@
   - [Taxi](#taxi)
   - [Nature](#nature)
   - [Misc](#misc-2)
-- [Music](#music)
+- [Volunteering](#volunteering)
 - [Weather](#weather)
   - [Haze](#haze)
+- [Misc](#misc-3)
 
 ## Books
 
@@ -109,6 +115,10 @@
 - [SGX Securities Prices / Stock Screener](https://www.sgx.com/securities/securities-prices)
 - [StocksCafe](https://stocks.cafe) - track your stocks portfolio, including dividends
 
+## Fitness / Exercise
+
+- [climbwhere.sg](https://www.climbwhere.sg/) - find climbing gym slots
+
 ### Brokers
 
 - [DBS Vickers](https://www.dbsvonline.com)
@@ -134,8 +144,9 @@
 ## Food
 
 - [Amazing Food Race (Singapore Edition)](https://app.gametize.com/project/33)
-- [HungryGoWhere](https://www.hungrygowhere.com) ☠
 - [Order Kopi Guide](https://kopi.guide)
+- [SG Hawker Bot](https://github.com/darensin01/SGHawkerBot) [`telegram`](https://t.me/SGHawkerBot)
+- [HungryGoWhere](https://www.hungrygowhere.com) ☠ ([June 2021](https://www.channelnewsasia.com/news/singapore/hungrygowhere-singtel-owned-f-b-portal-to-close-cease-operations-14972374))
 
 ### Dabao / Takeaway / Group Buys
 
@@ -167,6 +178,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 
 - [Gift for Good](https://www.giftforgood.io) - in-kind donations platform connecting donors and non-profit organisations
 - [giving.sg](https://www.giving.sg)
+- [Pass It On](https://www.passiton.org.sg/)
 
 ### Organisations
 
@@ -174,6 +186,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 
 ### Misc
 
+- [Grant Hunt](https://gogranthunt.com/#/) - chatbot that helps your charity / non-profit / social impact project find available grants
 - [Singapore Freecycle Network](https://www.facebook.com/groups/sgfreecycle/)
 - [Singapore Really Really Free Market (SRRFM)](https://www.facebook.com/srrfm) - flea market where everything is free
 
@@ -184,6 +197,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 
 ## Housing
 
+- [HDB BTO Bookmarklet](https://darensin01.github.io/2021/01/13/bto-bookmarklet) - conveniently check the price and size of HDB BTO units 
 - [keylocation.sg](https://keylocation.sg) - condo research tool
 
 ## Job Search
@@ -198,6 +212,35 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 - [LepakInSG](https://lepakinsg.wordpress.com)
 - [The List](http://www.thelist.asia)
 - [WalkAbout Singapore](http://www.walkabout.sg)
+
+## Music
+
+- [VinylWhere](https://vinylwhere.netlify.app) - vinyl records search engine
+
+## Neighbourhoods
+
+- [Rivervale.Town](https://rivervale.town/)
+
+## Telcos
+
+- [Circles.Life](https://www.circles.life/sg/)
+- [CMLink by China Mobile](https://www.cmlink.com/sg/)
+- [Grid Mobile](https://portal.gridmobile.com.sg/)
+- [M1](https://www.m1.com.sg/)
+- [MyRepublic](https://myrepublic.net)
+- [redONE](https://www.redone.com.sg/)
+- [Singtel](https://singtel.com)
+  - [GOMO](https://gomo.sg/mobile)
+- [Starhub](https://starhub.com)
+  - [Giga!](https://giga.com.sg/)
+- [TPG](https://www.tpgmobile.sg/)
+- [Vivifi](https://www.vivifi.me/)
+- [Zero1](https://zero1.sg/)
+- [Zero Mobile](https://web.archive.org/web/20191216132504/https://www.zeromobile.com.sg/) ☠ (March 2020)
+
+### Software Libraries
+
+- [starhub-api](https://github.com/darkdread/starhub-api)
 
 ## Transport
 
@@ -246,9 +289,9 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 - [GoingPlacesSingapore.SG](http://goingplacessingapore.sg) ☠
 - [Singapore Bitcoin Directory](https://github.com/weilu/singapore-bitcoin-directory) ☠
 
-## Music
+## Volunteering
 
-- [VinylWhere](https://vinylwhere.netlify.app) - vinyl records search engine
+- [bantu](https://bantu.life/) - volunteering communities platform
 
 ## Weather
 
@@ -264,3 +307,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 - Haze@SG [`android`](https://play.google.com/store/apps/details?id=com.hosay.hazesg) [`ios`](https://apps.apple.com/sg/app/haze-sg/id663816616) - mobile app displaying the AQI, PSI & PM2.5 readings across Singapore
 - [Thank you indo for the clean air](https://thankyouindoforthecleanair.web.app) - a webpage to thank Indonesia for the clean air it continuously sends Singapore
 - [PSI SG](https://cheeaun.github.io/psi-sg) ☠ - a web app that displays PSI readings in Singapore
+
+## Misc
+
+- [Amateur Radio Exam Notes](https://github.com/sayanee/radio-amateur-exam-notes)

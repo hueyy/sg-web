@@ -17,6 +17,7 @@
   - [Data Analytics / Data Science / Statistics](#data-analytics--data-science--statistics)
   - [Hardware / IoT](#hardware--iot)
   - [Homelab](#homelab)
+  - [Product Management](#product-management)
   - [Software Development](#software-development)
   - [Security](#security)
 - [Medicine](#medicine)
@@ -115,6 +116,10 @@
 
 - [Ikarus.sg by Will Ho](https://ikarus.sg)
 - [Zane Chua](https://zanechua.com)
+
+### Product Management
+
+- [Andre Low Wu Yang](https://www.andrelow.com/) - product manager @ AWS
 
 ### Software Development
 
