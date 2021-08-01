@@ -15,6 +15,7 @@
 - [BooksActually](https://www.booksactuallyshop.com)
 - [Epigram Bookshop](https://epigrambookshop.sg)
 - [poetry.sg](http://www.poetry.sg)
+- [SingPoWriMo](https://www.facebook.com/groups/singpowrimo/) - the largest online month-long poetry-writing activity in Asia
 
 ## History
 

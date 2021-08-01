@@ -21,6 +21,7 @@
   - [Software Development](#software-development)
   - [Security](#security)
 - [Medicine](#medicine)
+- [Neuroscience](#neuroscience)
 - [Parenting](#parenting)
 - [Writing](#writing)
 - [General](#general)
@@ -169,6 +170,10 @@
 ## Medicine
 
 - [Anthony Lianjie Li](https://llja0112.github.io) - Medical Officer at the National Center for Infectious Diseases
+
+## Neuroscience
+
+- [Joses Ho](https://www.josesho.com/)
 
 ## Parenting
 

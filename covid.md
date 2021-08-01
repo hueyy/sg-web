@@ -130,6 +130,7 @@ These were built in light of the Jul 2021 COVID restrictions in SG:
 - [Datasets for COVID-19 in Singapore and Malaysia](https://github.com/alphamodel/COVID-19-SG) - Singapore & Malaysia COVID-19 data from multiple data sources (Zaobao, MOH), updated every 10 minutes
 - [Spreadsheet with breakdown of imported cases](https://docs.google.com/spreadsheets/d/1ONQOU338geT9kZlKH1KIP2pXhodc4-zRsrDaxT_OYps)
 - [MOHVaccinationStats](https://github.com/ShaunLWM/MOHVaccinationStats)
+- [singapore-covid19-data](https://github.com/josesho/singapore-covid19-data) - numbers from MOH's COVID-19 Situation Report, available in a machine-readable format, and updated automatically once a day
 
 ### Scrapers
 
