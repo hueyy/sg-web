@@ -160,6 +160,7 @@
 - [Vanessa Cassandra](https://www.vancassa.com)
 - [Wei Gao](https://wgea.io)
 - [Zell Liew](https://zellwk.com)
+- [ZhengYuan Loo](https://zhengyuan.sg)
 
 ### Security
 
