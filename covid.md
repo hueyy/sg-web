@@ -70,6 +70,7 @@
 - [Project Hawker](https://projecthawker.com/) - project aiming to be a consolidated place to list all hawkers and their stories
 - [Save Our Nomnoms](https://www.saveournomnoms.com) - platform for searching for hawker food with online delivery
 - [SG Dabao](https://sgdabao.com) - free platform listing hawkers that you can dabao
+- [Shioker](http://shioker.com/) - hawker stall vouchers that provide hawkers with the cashflow they need
 - [Singapore Food Delivery Guide](https://thesmartlocal.com/delivery/) by The Smart Local - list of F&B outlets offering direct delivery
 - [Singapore Restaurant Rescue](https://www.facebook.com/groups/703761213763956/) - Facebook group for sharing restaurants with online delivery
 - [#LoveYourLocal Singapore](https://www.tripadvisor.com.sg/LoveYourLocalSG) by TripAdvisor - list of F&B restaurant delivery deals
