@@ -123,6 +123,7 @@ These were built in light of the Jul 2021 COVID restrictions in SG:
 
 - [Check the Crowd Levels by NLB](https://www.nlb.gov.sg/visitors) 🏛️
 - [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg) 🏛️
+- [Safe Distancing SG](https://safedistancing.sg)
 - [Space Out](https://www.spaceout.gov.sg) 🏛️
 - [wherecrowded.sg](https://wherecrowded.sg)
 
