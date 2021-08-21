@@ -3,7 +3,7 @@
 ## Contents
 
 - [COVID-19](covid.md)
-- [Civil Society / Politics](civil-socety-politics.md)
+- [Civil Society / Politics](civil-society-politics.md)
 - [Media](media.md)
 - [Personal Sites / Blogs](blogs.md)
 - [Resources](resources.md) - apps, lists, guides, etc.

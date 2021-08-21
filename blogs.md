@@ -104,6 +104,7 @@
 ### Data Analytics / Data Science / Statistics
 
 - [Chua Chin Hon](https://chuachinhon.medium.com)
+- [Su Goh](http://gohsu.com)
 - [Meraldo Antonio](https://meraldoantonio.github.io) - data scientist, linguist, and due diligence analyst
 - [Singapore & more in numbers by Kenneth Lim](https://numbers.sg)
 - [Wang Han](https://hans0124sg.github.io)
@@ -137,6 +138,7 @@
 - [Inari Listenmaa](https://inariksit.github.io)
 - [Jacob Tan](https://jacobtan.co)
 - [Jean Tan](https://www.jeantan.sg) - OGP
+- [Jin Lin](https://linjin.me)
 - [Julius Putra Tanu Setiaji](https://www.indocomsoft.com)
 - [Justin Ng](https://www.justinng.net) - software engineer at Slack
 - [Kar Rui Lau](https://karrui.dev/) - software engineer at Open Government Products, GovTech
@@ -156,6 +158,7 @@
 - [Shem Maleriado](https://nextjs-blog-sheimoria.vercel.app)
 - [Sherman Lim](https://shermz-lim.github.io/portfolio/)
 - [Stewart Wong](https://github.com/Stewart86)
+- [Tjandra Putra](https://tjandra-putra.github.io)
 - [Vishaag Suriyanarayanan](https://vishaag.com) - frontend developer at BandLab
 - [Vanessa Cassandra](https://www.vancassa.com)
 - [Wei Gao](https://wgea.io)

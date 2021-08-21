@@ -4,20 +4,23 @@
 ## Table of Contents
 
 - [Social Commentary / Political Analysis](#social-commentary--political-analysis)
-  - [Institution-Linked](#institution-linked)
+  - [Academic / Research](#academic--research)
   - [Others](#others)
 - [Political Parties](#political-parties)
 - [Politicans' Blogs](#politicans-blogs)
   - [Members of Parliament (present and former)](#members-of-parliament-present-and-former)
   - [Candidates for Parliament](#candidates-for-parliament)
+- [Election](#election)
+  - [GE2020](#ge2020)
 - [Resources](#resources)
 - [Platforms](#platforms)
 
 ## Social Commentary / Political Analysis
 
-### Institution-Linked
+### Academic / Research
 
 - [IPS Commons](https://ipscommons.sg) - platform operated by the Institute of Policy Studies, LKYSPP, NUS
+- [Singapore Internet Watch](https://www.singaporeinternet.watch)
 - [Singapore Policy Journal](https://spj.hkspublications.org) - student-run, country-specific journal published by the Harvard Kennedy School
   - [Singapore Policy Diary](https://singaporepolicydiary.home.blog) - satire of the SPJ and related issues
 
@@ -52,6 +55,12 @@
 ### Candidates for Parliament
 
 - [Leong Sze Hian](https://leongszehian.com)
+
+## Election
+
+### GE2020
+
+- [GE2020](https://ge2020.vercel.app/) - map displaying the candidates for each constituency and the election results
 
 ## Resources
 

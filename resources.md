@@ -31,6 +31,7 @@
 - [Government](#government)
 - [Housing](#housing)
 - [Job Search](#job-search)
+- [Medicine](#medicine)
 - [Meetups / Events](#meetups--events)
 - [Music](#music)
 - [Neighbourhoods](#neighbourhoods)
@@ -82,6 +83,7 @@
 - [NRIC Validator](https://github.com/mech/validator-nric)
 - [OneMap APIs](https://www.onemap.gov.sg/docs/) 🏛️
 - [POFMA’ed](https://pofmaed.com) - records all uses of POFMA
+- [sg-areas](https://github.com/horensen/sg-areas) - a Typescript library for planning areas
 - [Singapore 3R Data](https://flatgithub.com/cheeaun/sg3rdata) - recycling data, e.g. e-waste recyling points
 
 ### Banking / Finance
@@ -207,6 +209,12 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 - [List of Singapore Tech Internships](https://github.com/sushinoya/singapore-tech-internships)
 - [techjobs.sg](https://techjobs.sg)
 
+## Medicine
+
+Resources for medical professionals:
+
+- [updatemeprn](https://sites.google.com/view/updatemeprn) [`instagram`](https://www.instagram.com/updatemeprn/)
+
 ## Meetups / Events
 
 - [Engineers.SG](https://engineers.sg)
@@ -260,6 +268,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 
 - [CityMapper](https://citymapper.com/singapore/apps)
 - [gothere.sg](https://gothere.sg/maps)
+- [Meet Go Where?](https://meetgowhere.vercel.app/) - a web app that shows you all the areas you can reach within a certain period of time; also provides a visualisation of the most convenient place for multiple people to meet based on travel time
 - [One Map](https://www.onemap.gov.sg)
   - [One Map 3D](https://www.onemap3d.gov.sg)
 
