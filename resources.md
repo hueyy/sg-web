@@ -35,6 +35,7 @@
 - [Meetups / Events](#meetups--events)
 - [Music](#music)
 - [Neighbourhoods](#neighbourhoods)
+- [Language](#language)
 - [Telcos](#telcos)
   - [Software Libraries](#software-libraries)
 - [Transport](#transport)
@@ -201,7 +202,8 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 
 ## Housing
 
-- [HDB BTO Bookmarklet](https://darensin01.github.io/2021/01/13/bto-bookmarklet) - conveniently check the price and size of HDB BTO units 
+- [CEA Public Register](https://www.cea.gov.sg/consumers/public-register) - view all residential property transactions by all property agents in Singapore
+- [HDB BTO Bookmarklet](https://darensin01.github.io/2021/01/13/bto-bookmarklet) - conveniently check the price and size of HDB BTO units
 - [keylocation.sg](https://keylocation.sg) - condo research tool
 
 ## Job Search
@@ -230,6 +232,11 @@ Resources for medical professionals:
 ## Neighbourhoods
 
 - [Rivervale.Town](https://rivervale.town/)
+
+## Language
+
+- [Learn Teochew](https://kbseah.github.io/learn-teochew/)
+- [Yahya Hamid](http://yahya.sg/) - Malay language teacher
 
 ## Telcos
 
@@ -275,6 +282,7 @@ Resources for medical professionals:
 
 ### Train
 
+- [MRT Map Singapore](https://mrtmapsingapore.com/) - interative, up-to-date MRT map
 - [MRT.SG](https://mrt.sg)
   - [Geographic Map](https://mrt.sg/map)
   - [Schematic Map](https://mrt.sg/map/schematic)
@@ -322,3 +330,5 @@ Resources for medical professionals:
 ## Misc
 
 - [Amateur Radio Exam Notes](https://github.com/sayanee/radio-amateur-exam-notes)
+- [Droplet](https://www.droplet.sg/#/) - rain insurance
+- [LTAIdentity Font](https://github.com/jglim/IdentityFont) - a reconstruction of the humanistic sans-serif font used in Singapore's public transport signs and graphics

@@ -140,6 +140,7 @@ These were built in light of the Jul 2021 COVID restrictions in SG:
 
 ### Visualisations
 
+- [co.vid19.sg](https://co.vid19.sg/)
 - [MOH Situation Report](https://covidsitrep.moh.gov.sg/) 🏛️
 - [pvvbc](https://ppvbc.github.io) - map of public locations visited by infectious persons
 - [SG Vaccine Tracker](https://vaccine.justinng.net)

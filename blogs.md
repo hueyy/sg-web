@@ -127,6 +127,7 @@
 
 - [Aaron Ong](https://aaronong.github.io) - liberal arts student, now a software engineer at Facebook
 - [Ajmal Afif](https://ajmalafif.com)
+- [Anikesh Bhuvaneshwaram](https://anikeshb.netlify.app)
 - [Chen Hui Jing](https://chenhuijing.com)
 - [Chiang Fong Lee](https://www.cflee.com)
 - ["Eli James" Cendric Chin](http://elijames.org) - product manager at Floating Cube Studios
@@ -159,9 +160,11 @@
 - [Sherman Lim](https://shermz-lim.github.io/portfolio/)
 - [Stewart Wong](https://github.com/Stewart86)
 - [Tjandra Putra](https://tjandra-putra.github.io)
+- [Vincent Neo](https://www.vincent-neo.com/)
 - [Vishaag Suriyanarayanan](https://vishaag.com) - frontend developer at BandLab
 - [Vanessa Cassandra](https://www.vancassa.com)
 - [Wei Gao](https://wgea.io)
+- [Yeo Kheng Meng](https://yeokhengmeng.com)
 - [Zell Liew](https://zellwk.com)
 - [ZhengYuan Loo](https://zhengyuan.sg)
 
