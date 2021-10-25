@@ -24,6 +24,7 @@
   - [Vegan](#vegan)
   - [Halal](#halal)
   - [Misc](#misc)
+- [Games](#games)
 - [Giving / Charity](#giving--charity)
   - [Platforms](#platforms)
   - [Organisations](#organisations)
@@ -152,6 +153,7 @@
 - [Order Kopi Guide](https://kopi.guide)
 - [SG Hawker Bot](https://github.com/darensin01/SGHawkerBot) [`telegram`](https://t.me/SGHawkerBot)
 - [HungryGoWhere](https://www.hungrygowhere.com) ☠ ([June 2021](https://www.channelnewsasia.com/news/singapore/hungrygowhere-singtel-owned-f-b-portal-to-close-cease-operations-14972374))
+- [IceCreamMap.sg](https://www.icecreammap.sg/) - a map of ice cream places in Singapore [created by Li Hongyi](https://www.facebook.com/iygnohil/posts/10165827398605235)
 
 ### Dabao / Takeaway / Group Buys
 
@@ -176,6 +178,10 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 ### Misc
 
 - [Dignity Kitchen](https://projectdignity.sg/dignity-kitchen/) - hawker stalls run by the differently-abled and disadvantaged
+
+## Games
+
+- [Ghostlore](https://store.steampowered.com/app/1783280/Ghostlore/) - an action RPG featuring monsters from SEA folklore
 
 ## Giving / Charity
 
