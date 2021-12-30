@@ -15,6 +15,7 @@
 - [Technology](#technology)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Data Analytics / Data Science / Statistics](#data-analytics--data-science--statistics)
+  - [Design](#design)
   - [Hardware / IoT](#hardware--iot)
   - [Homelab](#homelab)
   - [Product Management](#product-management)
@@ -109,6 +110,10 @@
 - [Singapore & more in numbers by Kenneth Lim](https://numbers.sg)
 - [Wang Han](https://hans0124sg.github.io)
 
+### Design
+
+- [Yu Jing](https://yujing.design/) - UX designer, illustrator
+
 ### Hardware / IoT
 
 - [Andrew "bunnie" huang](https://www.bunniestudios.com/) - well-known hardware hacker based in Singapore
@@ -150,6 +155,7 @@
 - [Lim Chee Aun](https://cheeaun.com) - web developer
 - [Marcus Koh Chi Hao](https://kohchihao.com)
 - [Maythee Anegboonlap](https://www.llun.me)
+- [Melvin Mok](https://melvinmok.com) - software engineer at ShopBack, former lawyer
 - [Ming Liang Khong](https://minggliangg.github.io)
 - [Pye Sone Kyaw](https://pyesonekyaw.com)
 - [Quasilinear Musings by Timothy Lin](https://www.timlrx.com)

@@ -182,6 +182,10 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 ## Games
 
 - [Ghostlore](https://store.steampowered.com/app/1783280/Ghostlore/) - an action RPG featuring monsters from SEA folklore
+- [Heritage Game Jam](https://www.heritagegamejam.com) - an annual affair where people come together to create games about Singpaore's culture and heritage
+- [Scan Please!](https://dartteon.itch.io/hgj-2021) - SafeEntry gantry operator simulator
+- [TraysTogether](https://jirehcwe.itch.io/trays-together) - clear trays as the a tray-clearing auntie in a hawker centre
+- [uWu Adventure](https://seet.itch.io/uwu) - enforce safe distancing as the uWu bird (i.e. the Asian Koel)
 
 ## Giving / Charity
 
@@ -308,6 +312,7 @@ Resources for medical professionals:
 
 - [Architecture Walks Singapore](http://www.archiwalks.com)
 - [Citizen Adventures](https://www.citizenadventures.com)
+- [SchoolPicker.SG](https://schoolpicker.sg/) - web app that displays schools in Singapore, can filter by level, CCA, etc.
 - [SingaporeRoadnameOrigins](https://github.com/michelleful/SingaporeRoadnameOrigins) - map of roads colour-coded for langauge of origin
 - [SGBuses.com](https://www.sgbuses.com) - photos and information about all buses in Singapore
 - [smrt-git](https://github.com/yangshun/smrt-git) - MRT lines visualised in a git commit history
