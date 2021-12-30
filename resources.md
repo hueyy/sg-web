@@ -326,6 +326,7 @@ Resources for medical professionals:
 - [checkweather.sg](https://checkweather.sg)
   - [iOS version](https://apps.apple.com/app/check-weather-sg/id1510170224)
 - [Rain Korkor](https://t.me/rainkorkorbot) - a Telegram bot that displays satellite imagery of rain clouds over Singapore
+- [WhetherReport](https://whether.huey.xyz) - assesses accuracy of SG weather forecasts
 
 ### Haze
 
