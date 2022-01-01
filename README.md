@@ -1,4 +1,4 @@
-# 🇸🇬 [Singapore Internet Directory](https://hueyy.github.io/sg-web/)
+# 🇸🇬 [Singapore Internet Directory](https://web.tgt.sg)
 
 ## Contents
 
