@@ -105,14 +105,20 @@
 ### Data Analytics / Data Science / Statistics
 
 - [Chua Chin Hon](https://chuachinhon.medium.com)
-- [Su Goh](http://gohsu.com)
 - [Meraldo Antonio](https://meraldoantonio.github.io) - data scientist, linguist, and due diligence analyst
+- [Reo Neo](https://reoneo.medium.com/)
 - [Singapore & more in numbers by Kenneth Lim](https://numbers.sg)
+- [Su Goh](http://gohsu.com)
 - [Wang Han](https://hans0124sg.github.io)
 
 ### Design
 
 - [Yu Jing](https://yujing.design/) - UX designer, illustrator
+
+### Geospatial
+
+- [XP Song](https://xp-song.github.io/) - postdoc researcher at NUS
+- [Yin Shanyang](https://medium.com/@yinshanyang)
 
 ### Hardware / IoT
 
@@ -134,8 +140,12 @@
 - [Ajmal Afif](https://ajmalafif.com)
 - [Anikesh Bhuvaneshwaram](https://anikeshb.netlify.app)
 - [Chen Hui Jing](https://chenhuijing.com)
+- [Chester How](https://chester.how/)
 - [Chiang Fong Lee](https://www.cflee.com)
+- [Dave Low](https://davelowqx.com/)
+- [Duncan Leo](https://www.duncanleo.me/)
 - ["Eli James" Cendric Chin](http://elijames.org) - product manager at Floating Cube Studios
+- [Estee Tey Siew Wen](https://github.com/lyqht)
 - [Fabian Terh](https://fabianterh.me) - software engineer at Facebook
 - ["Frank" Junchao Gu](https://franklingu.github.io) - software engineer at Bytedance
 - [Hadi Rickit](https://rickithadi.com)
@@ -144,6 +154,8 @@
 - [Inari Listenmaa](https://inariksit.github.io)
 - [Jacob Tan](https://jacobtan.co)
 - [Jean Tan](https://www.jeantan.sg) - OGP
+- [Jiayu Yi](https://blog.jiayu.co/)
+- [Jiang Nan](https://jiangnanq.github.io/blog/about/)
 - [Jin Lin](https://linjin.me)
 - [Julius Putra Tanu Setiaji](https://www.indocomsoft.com)
 - [Justin Ng](https://www.justinng.net) - software engineer at Slack
@@ -151,6 +163,7 @@
 - [Kenneth Ang](https://ksami.github.io) - senior software enginner at Dyson
 - [Lakshyajeet Dwivedee](https://laksh22.github.io)
 - [Laura Lee](https://laura-xy-lee.github.io)
+- [Lester Chan](https://lesterchan.net/) - senior software engineer, full stack, at Grab
 - [Li Haoyi](https://www.lihaoyi.com) - scala
 - [Lim Chee Aun](https://cheeaun.com) - web developer
 - [Marcus Koh Chi Hao](https://kohchihao.com)
@@ -160,10 +173,12 @@
 - [Pye Sone Kyaw](https://pyesonekyaw.com)
 - [Quasilinear Musings by Timothy Lin](https://www.timlrx.com)
 - [Ravern Koh](https://ravern.zone)
+- [Rong Ying](https://blog.rongying.co/)
 - [Sean Lim](https://sean.place/)
 - [Sean Low Jun Kai](https://seanlowjk.github.io/website/)
 - [Shem Maleriado](https://nextjs-blog-sheimoria.vercel.app)
 - [Sherman Lim](https://shermz-lim.github.io/portfolio/)
+- [Shubham Periwal](http://shubhamperiwal.com/#/)
 - [Stewart Wong](https://github.com/Stewart86)
 - [Tjandra Putra](https://tjandra-putra.github.io)
 - [Vincent Neo](https://www.vincent-neo.com/)
@@ -179,6 +194,11 @@
 - ["avicoder" Avinash Singh](https://avicoder.me)
 - [Benjamin Lim](https://limbenjamin.com)
 - [Sriram Sami](https://sriramsami.com) - PhD student in the Sensing, Embedded, and Network Security Group at NUS
+
+## Travel / Environment
+
+- [Wild Shores of Singapore](https://wildshores.blogspot.com/)
+- [Wild Singapore](http://www.wildsingapore.com/)
 
 ## Medicine
 

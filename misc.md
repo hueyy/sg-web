@@ -45,3 +45,4 @@
 
 - [better.sg](https://better.sg) - tech for good
   - [callhome.sg](https://callhome.sg) - app for migrant workers to call landlines back home using 3G
+- [comix.sg](https://www.comix.sg/) - an online directory of Singapore comics

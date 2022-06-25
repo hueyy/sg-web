@@ -215,6 +215,7 @@ Also see [the Food section in the COVID-19 section](covid.md#food).
 - [CEA Public Register](https://www.cea.gov.sg/consumers/public-register) - view all residential property transactions by all property agents in Singapore
 - [HDB BTO Bookmarklet](https://darensin01.github.io/2021/01/13/bto-bookmarklet) - conveniently check the price and size of HDB BTO units
 - [keylocation.sg](https://keylocation.sg) - condo research tool
+- [sgp.fyi](https://sgp.fyi/) - an easy way to query Singapore's public housing transactions; discover long term price trends for HDB units
 
 ## Job Search
 
@@ -344,3 +345,4 @@ Resources for medical professionals:
 - [Amateur Radio Exam Notes](https://github.com/sayanee/radio-amateur-exam-notes)
 - [Droplet](https://www.droplet.sg/#/) - rain insurance
 - [LTAIdentity Font](https://github.com/jglim/IdentityFont) - a reconstruction of the humanistic sans-serif font used in Singapore's public transport signs and graphics
+- [Singapore Scam](https://scamsg.com/) - a list of scams in Singapore
