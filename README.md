@@ -12,6 +12,8 @@
 - [Universities](universities.md)
 - [Misc](misc.md)
 
+Or [visit a random site](random.md)
+
 ## About
 
 - [Why does this exist?](meta/README.md)

@@ -108,7 +108,6 @@
 - [Meraldo Antonio](https://meraldoantonio.github.io) - data scientist, linguist, and due diligence analyst
 - [Reo Neo](https://reoneo.medium.com/)
 - [Singapore & more in numbers by Kenneth Lim](https://numbers.sg)
-- [Su Goh](http://gohsu.com)
 - [Wang Han](https://hans0124sg.github.io)
 
 ### Design
@@ -203,6 +202,11 @@
 ## Medicine
 
 - [Anthony Lianjie Li](https://llja0112.github.io) - Medical Officer at the National Center for Infectious Diseases
+
+## Legal
+
+- [Love.Law.Robots.](https://lovelawrobots.com/)
+- [Ronald JJ Wong](https://www.ronaldjjwong.com/)
 
 ## Neuroscience
 
