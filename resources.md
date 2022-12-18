@@ -299,6 +299,7 @@ Resources for medical professionals:
   - [Schematic Map](https://mrt.sg/map/schematic)
   - [Mobile-Friendly Map](https://mrt.sg/mrt-lines)
 - [RailRouter SG](https://railrouter.sg) - explore MRT & LRT routes
+- [SGTrains](https://www.sgtrains.com) - Train Enthusiasts in SG
 
 ### Taxi
 
