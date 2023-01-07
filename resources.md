@@ -114,6 +114,7 @@
 - [BYO Bottle SG](https://byobottlesg.com) - initiative to reduce wastage of single-use plastics, particularly drink bottles
 - [Recycle Go Where? / Recycle Tree](https://recycletree.pyesonekyaw.com) - tells you where the nearest recycling facility is
 - [RecycleNSave](https://recyclensave.sg/locations/) - find a reverse vending machine to recycle plastic bottles and aluminium cans
+- [Recyclopedia.sg](https://recyclopedia.sg/) - all you need to know when you have something to throw
 
 ## Finance / Investing
 
