@@ -280,6 +280,7 @@ Resources for medical professionals:
 
 ### Car / Driving
 
+- [Carma](https://carma.sg) - every used car for sale in Singapore, scored against similar cars on depreciation, mileage, owners and COE left; also COE prices and car calculators
 - [Parking.SG](https://www.parking.sg) - pay for parking with your phone
 - [roadtaxTracker](https://github.com/Stewart86/roadtaxTracker) - renew roadtax in bulk for a fleet of vehicles
 - Parkwhere [`android`](https://play.google.com/store/apps/details?id=com.TidBit.Parkwhere) - carpark rates and availability
