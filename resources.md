@@ -280,6 +280,7 @@ Resources for medical professionals:
 
 ### Car / Driving
 
+- [Holla](https://useholla.com/parking) - compare car park rates by arrival time and duration in Singapore, and check lot availability
 - [Parking.SG](https://www.parking.sg) - pay for parking with your phone
 - [roadtaxTracker](https://github.com/Stewart86/roadtaxTracker) - renew roadtax in bulk for a fleet of vehicles
 - Parkwhere [`android`](https://play.google.com/store/apps/details?id=com.TidBit.Parkwhere) - carpark rates and availability
